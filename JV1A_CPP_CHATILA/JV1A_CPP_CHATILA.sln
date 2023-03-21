@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JV1A_CPP_CHATILA", "JV1A_CPP_CHATILA.vcxproj", "{8304BB12-41D9-4C2C-BA0E-41A0A44FBA68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8304BB12-41D9-4C2C-BA0E-41A0A44FBA68}.Debug|x64.ActiveCfg = Debug|x64
+		{8304BB12-41D9-4C2C-BA0E-41A0A44FBA68}.Debug|x64.Build.0 = Debug|x64
+		{8304BB12-41D9-4C2C-BA0E-41A0A44FBA68}.Debug|x86.ActiveCfg = Debug|Win32
+		{8304BB12-41D9-4C2C-BA0E-41A0A44FBA68}.Debug|x86.Build.0 = Debug|Win32
+		{8304BB12-41D9-4C2C-BA0E-41A0A44FBA68}.Release|x64.ActiveCfg = Release|x64
+		{8304BB12-41D9-4C2C-BA0E-41A0A44FBA68}.Release|x64.Build.0 = Release|x64
+		{8304BB12-41D9-4C2C-BA0E-41A0A44FBA68}.Release|x86.ActiveCfg = Release|Win32
+		{8304BB12-41D9-4C2C-BA0E-41A0A44FBA68}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43386105-2DD4-415F-8A20-1DDFEE7581A9}
+	EndGlobalSection
+EndGlobal
